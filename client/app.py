@@ -14,7 +14,7 @@ from server.model import get_best_answer
 # ✅ Page config must be FIRST streamlit call
 st.set_page_config(
     page_title="FAQ Chatbot",
-    page_icon="./assets/chatbot.png"
+    page_icon="./assets/chatbotIcon.png"
 )
 
 st.title("🤖 FAQ Chatbot")
