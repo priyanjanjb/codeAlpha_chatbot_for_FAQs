@@ -85,7 +85,7 @@ streamlit run client/app.py
 
 ## 🖼️ Screenshot
 
-![Chat Screen](./assets/chatbot.png)
+![Chat Screen](assets/chatbot.png)
 
 ---
 
